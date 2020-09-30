@@ -213,7 +213,6 @@ body {
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 1px;
-  overflow: hidden;
   text-overflow: ellipsis;
   @include light-mode {
     color: $color-body-font-light;
@@ -508,7 +507,7 @@ body {
   font-weight: $color-body-font;
   letter-spacing: -0.1em;
   font-family: $font-serif;
-  color: rgba(0, 0, 0, 0.2);
+  color: rgba(170, 91, 91, 0.2);
 }
 
 .post-card.no-image .post-card-content {
@@ -854,3 +853,27 @@ body {
   margin: auto;
   text-align: center;
 }
+
+// .link {
+//   margin-bottom: 1.5em;
+//   font-weight: 600;
+//   line-height: 1.9;
+//   text-decoration: none;
+//   color: currentColor;
+
+//   span {
+//     margin-left: 1em;
+//     transform: translateX(-8px);
+//     display: inline-block;
+//     opacity: 0;
+//     transition: all 400ms ease-in-out;
+//   }
+
+//   &:hover {
+//     span {
+//       transform: translateX(0px);
+//       opacity: 1;
+//       transition: all 150ms ease-in-out;
+//     }
+//   }
+// }

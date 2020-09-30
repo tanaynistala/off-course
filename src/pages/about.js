@@ -18,37 +18,56 @@ const AboutPage = ({ data }, location) => {
       <article className="post-content page-template no-image">
         <div className="post-content-body">
           <h2 id="clean-minimal-and-deeply-customisable-london-is-a-theme-made-for-people-who-appreciate-simple-lines-">
-            Clean, minimal, and deeply customisable. London is a theme made for
-            people who appreciate simple lines.
+            Off Course is a CAS project to bridge the divide in opportunities provided to children.
           </h2>
           <figure className="kg-card kg-image-card kg-width-full">
             <Img
               fluid={data.benchAccounting.childImageSharp.fluid}
               className="kg-image"
             />
-            <figcaption>Large imagery is at the heart of this theme</figcaption>
+            <figcaption>Image caption</figcaption>
           </figure>
-          <h3 id="dynamic-styles">Dynamic styles</h3>
           <p>
-            London comes with photo-centric main layout best suited to
-            photography, graphics portfolios and other image-heavy uses.
+            Off-Course is a CAS project that aims to bridge the divide in opportunities provided to children. 
+            Often, the educational opportunities availed by children are limited to purely textbook-oriented content, 
+            rather than touching upon valuable real world skills.
           </p>
           <p>
-            Both post and page templates are light and minimal, with all the
-            focus on the content while the design of the theme gets out of the
-            way. Beneath the hood, London enjoys the full power of the{" "}
-            <a href="https://docs.ghost.org/api/handlebars-themes/">
-              Ghost Handlebars Theme API
-            </a>{" "}
-            to provide limitless customisation options and dynamic styles.
+            By creating short-courses designed for children about various skills, 
+            we aim to take a step towards resolving this divide. 
           </p>
+          <hr />
+          <h3 id="usp">What makes this project different?</h3>
           <p>
-            Don't forget to check out the{" "}
-            <a href="https://docs.ghost.org/integrations/">
-              Ghost Integrations Directory
-            </a>{" "}
-            for more ways to integrate Ghost with your favourite services.
+            <ul>
+              <li>The course particularly caters towards the youth, and will be organized by difficulty level.</li>
+              <li>Linguistic barriers will be addressed by adding Hindi subtitles.</li>
+              <li>Gradual development of skills, rather than one video explaining the whole concept.</li>
+              <li>Students will be able to reach out to the course creators via email or through a phone call.</li>
+            </ul>
           </p>
+          <hr/>
+          <h3 id="cas">Incorporating CAS</h3>
+          <dl>
+            <dt>Creativity</dt>
+            <dd>
+              <p>
+                As we endeavour to create dynamic courses, we will explore our own interests and talents, 
+                while learning crucial skills like video editing, teaching, course designing, and website designing.
+              </p>
+            </dd>
+            <dt>Service</dt>
+            <dd>
+              <p>
+                The website we build (this one!) will be provided to {" "}
+                <a href="https://www.muktanganedu.org/">
+                  Muktangan
+            </a>, who will then share it with the children they work with. 
+                The children using the course can learn any skills/hobbies they choose and obtain a certificate for participation. 
+                We also hope to expand it by tieing up with other NGOs and maybe some BMC schools.
+              </p>
+            </dd>
+          </dl>
         </div>
       </article>
     </Layout>

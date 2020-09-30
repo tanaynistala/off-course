@@ -24,7 +24,9 @@ class BlogPostTemplate extends React.Component {
           </header>
 
           {post.frontmatter.description && (
-            <p className="post-content-excerpt">{post.frontmatter.description}</p>
+            <p className="post-content-excerpt">
+              {post.frontmatter.description}
+            </p>
           )}
 
           {post.frontmatter.thumbnail && (
@@ -50,7 +52,7 @@ class BlogPostTemplate extends React.Component {
           </footer>
         </article>
       </Layout>
-    )
+    );
   }
 }
 

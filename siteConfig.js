@@ -1,9 +1,9 @@
 module.exports = {
-  name: 'London Night and Day',
-  shortName: '',
-  description: 'A bold, minimal theme for Gatsby, focused on clean typography & beautiful imagery',
+  name: 'Off Course',
+  shortName: 'Off Course',
+  description: 'Bridging the divide in opportunities provided to children',
   url: 'https://www.jooplaan.com', // Domain of your site without prefix!
   prefix: '/',
-  author: 'jooplaan',
+  author: 'off-course',
   twitter: ''
 }
