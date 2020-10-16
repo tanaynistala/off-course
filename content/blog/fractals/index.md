@@ -6,14 +6,22 @@ thumbnail: ./course-thumbnail.png
 description: Course description
 ---
 
-### Video 1
+### Video 1: Introduction to Fractals
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IbNF2YVdJYE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Video 2
+### Video 2: Sierpinski's Triangle
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6eMVcMjlB0o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Video 3
+### Video 3: Sierpinski's Carpet
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Video 4: Koch Curve
+
+This video is coming soon. Stay tuned to check it out!
+
+### Video 5: Koch Snowflake
+
+This video is coming soon. Stay tuned to check it out!
