@@ -20,8 +20,8 @@ description: Course description
 
 ### Video 4: Koch Curve
 
-This video is coming soon. Stay tuned to check it out!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kD8IB6XWNUI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Video 5: Koch Snowflake
 
-This video is coming soon. Stay tuned to check it out!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Yd5Ae6ERmH8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
